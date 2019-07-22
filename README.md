@@ -1,5 +1,5 @@
 # classifydotbe
-Machine Learning Project files for domain classification
+Machine Learning Project files for classification of Belgian websites.
 
 ## Requirements:
 - mongoDB (ver >= 3.2) listening on port 27017
